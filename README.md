@@ -18,14 +18,14 @@ Keep the board free for as long as possible. Once the board is full of the evil 
 
 ## Installation and Usage Guide
 ### Downloading "2048: Wild West Edition" Game Files
-To download go to the GitHub repository for the [2048: Wild West Edition](...) and click on the green "Clone or Download" button on the top right. Then click "Download ZIP" right below the green button. Unzip the zip file once it finished downloading. An alternative is to clone the repository through a terminal (for example, Git bash) and do "git clone ...". The repository would hold the source, simulation, and constraint files for the game.
+To download go to the GitHub repository for the [2048: Wild West Edition](https://github.com/chrsthur/WildWest2048) and click on the green "Clone or Download" button on the top right. Then click "Download ZIP" right below the green button. Unzip the zip file once it finished downloading. An alternative is to clone the repository through a terminal (for example, Git bash) and do "git clone https://github.com/chrsthur/WildWest2048". The repository would hold the source, simulation, and constraint files for the game.
 
 ### Installing Pre-requisites
 To run the game, you need to have Vivado 2020.2. If you do not have the latest version yet, please update it by downloading the newest version from the [Xilinx website](https://www.xilinx.com/support/download.html). The game is also designed to be used on the Nexys A7 FPGA board as well so you would not be able to use a different FPGA board model to run the game.
 
 ### Installing and Running the Game
 1. Run Vivado 2020.2
-2. Import the modules (in the ... folder) into the project srcs/sources folder
+2. Import the modules (in the Sources folder) into the project srcs/sources folder
 3. Import the constraint file to the project
 4. Run the RTL analysis process for the project
 5. Run the synthesis process for the project
