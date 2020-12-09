@@ -7,7 +7,7 @@
 - Abdullah Gramish      U09439898
 
 ## Demo Video
-Youtube Link: [Click Here!](youtube.com/...)
+Youtube Link: [Click Here!](https://www.youtube.com/watch?v=6uVBXwEYlkc)
 
 ## Project Overview
 ### Description
